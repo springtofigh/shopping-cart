@@ -12,7 +12,7 @@ const ProductDetails = (props) => {
     const id = params.id;
     const data = useContext(ProductsContext);
     const product = data[id - 1];
-    const { description , title , category , price , image } = product;
+    const { description , title , category , price , image } = product || {};
 
     return (
         <div className={styles.container}>
