@@ -15,11 +15,11 @@ import store from './redux/store';
 function App() {
   return (
     <Provider store={store}>
-      {/* <Navbar/> */}
+      <Navbar/>
       <Routes>
-        {/* <Route path="/products/:id" element={<ProductDetails/>} /> */}
+        <Route path="/products/:id" element={<ProductDetails/>} />
         <Route path="/products" element={<Store/>} />
-        {/* <Route path="/Cart" element={<ShopCart/>}/> */}
+        <Route path="/Cart" element={<ShopCart/>}/>
         <Route path="/*"  element={< Navigate to="products"/>} />
       </Routes>
     </Provider>
