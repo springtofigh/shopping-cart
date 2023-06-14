@@ -2,7 +2,7 @@
 
 A fully responsive shopping cart project using Context and Redux as state global management powered by Fake Store API
 
-[![Shopping Store-1](https://i.im.ge/2023/06/13/iUG8Ka.Shopping-Store-1.png)](https://im.ge/i/iUG8Ka)
+[![Shopping Store](https://i.im.ge/2023/06/14/i544up.Shopping-Store.png)](https://im.ge/i/i544up)
 
 
 In the project directory, you can run the following:
