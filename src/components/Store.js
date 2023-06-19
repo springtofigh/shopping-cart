@@ -18,7 +18,7 @@ const Store = () => {
 
     useEffect(() => {
         if (!productsState.products.length) dispatch(fetchProducts())
-    }, [])
+    }, [dispatch , productsState.products.length])
 
     return (
         <div className={styles.container}>
