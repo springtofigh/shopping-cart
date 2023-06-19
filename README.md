@@ -23,12 +23,10 @@ You may also see any lint errors in the console.
 
 ## Technologies that I use in this peoject
 
-✴ Redux
-
 ✴ Context
 
 ✴ Axios
 
 ✴ React Router Dom
 
-✴ Css
+✴ CSS
