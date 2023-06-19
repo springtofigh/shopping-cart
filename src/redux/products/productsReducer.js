@@ -24,10 +24,9 @@ const productsReducer = (state= initialState , action) => {
                         error: action.payload
                     }
 
-            break;
     
         default: return state
-            break;
+
     }
 }
 
