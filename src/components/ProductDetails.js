@@ -2,9 +2,6 @@ import React from 'react';
 import { Link , useParams} from 'react-router-dom';
 import { useSelector } from 'react-redux';
 
-//Context
-
-
 // styles
 import styles from '../components/ProductDetails.module.css';
 

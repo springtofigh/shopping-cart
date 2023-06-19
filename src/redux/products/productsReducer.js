@@ -5,7 +5,7 @@ const initialState = {
 }
 
 const productsReducer = (state= initialState , action) => {
-    //
+    //ACTIONS
     switch (action.type) {
             case "FETCH_PRODUCTS_REQUEST":
             return {
