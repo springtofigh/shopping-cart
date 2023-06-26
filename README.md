@@ -1,6 +1,6 @@
 # Shopping Cart
 
-A fully responsive shopping cart project using Redux as state global management powered by Fake Store API.
+A fully responsive shopping cart project using Redux as global state management powered by Fake Store API.
 
 
 It should be noted that only Redux has been used in this project and soon Redux toolkit will also be used in it.
@@ -20,9 +20,12 @@ You may also see any lint errors in the console.
 
 ## Screenshots
 
-[![Shopping Store-redux](https://i.im.ge/2023/06/19/i86emL.Shopping-Store-redux.png)](https://im.ge/i/i86emL)
+![Shopping Store-redux](https://github.com/springtofigh/shopping-cart/assets/90114320/6be8abf5-3cef-499b-988f-6319903d6eb5)
 
-## Technologies that I use in this peoject
+
+## Technologies that I use in this project
+
+✴ React
 
 ✴ Redux
 
